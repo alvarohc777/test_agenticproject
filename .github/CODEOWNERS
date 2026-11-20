@@ -1,0 +1,5 @@
+# The integrator reviews contracts, composition and the registry.
+# Replace with the team's integrator once decided.
+/src/contracts/      @alvarohc777
+/src/composition.ts  @alvarohc777
+/src/app/registry.ts @alvarohc777
