@@ -1,0 +1,21 @@
+{
+  "_note": "Category ids used by content/merchants.json. Labels live in content/i18n.",
+  "categories": [
+    { "id": "housing", "color": "#4C6EF5" },
+    { "id": "groceries", "color": "#2F9E44" },
+    { "id": "eating-out", "color": "#F08C00" },
+    { "id": "transport", "color": "#1098AD" },
+    { "id": "travel", "color": "#7048E8" },
+    { "id": "health", "color": "#E03131" },
+    { "id": "utilities", "color": "#5C7CFA" },
+    { "id": "subscriptions", "color": "#AE3EC9" },
+    { "id": "online-shopping", "color": "#D6336C" },
+    { "id": "electronics", "color": "#495057" },
+    { "id": "clothing", "color": "#F76707" },
+    { "id": "books", "color": "#74B816" },
+    { "id": "taxes", "color": "#868E96" },
+    { "id": "income", "color": "#37B24D" },
+    { "id": "transfer", "color": "#ADB5BD" },
+    { "id": "other", "color": "#CED4DA" }
+  ]
+}

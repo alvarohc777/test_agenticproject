@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+
+# Secrets never go in the repo (see AGENTS.md)
+.env
+.env.*
+!.env.example
+
+# Challenge data stays local: put the PostFinance sample CSVs in data/samples/
+data/

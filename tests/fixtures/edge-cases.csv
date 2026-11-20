@@ -1,0 +1,5 @@
+name,type,source_id,source_label,target_id,target_label,transaction_date,value_date,amount,currency,status,exchange_rate,base_amount,base_currency,description
+Salärzahlung Employer AG,income,EmployerAG,Employer AG,Account1,Privatkonto,2025-12-23,2025-12-23,7464.0,CHF,settled,1.0,7464.0,CHF,
+Salärzahlung 13. Monatslohn Employer AG,income,EmployerAG,Employer AG,Account1,Privatkonto,2025-12-23,2025-12-23,7464.0,CHF,settled,1.0,7464.0,CHF,
+"PIZZERIA & GRIL, Samedan 2025-01-28",expense,Account1,Privatkonto,"PIZZERIA_&_GRIL,_Samedan","Pizzeria & Grill, Samedan",2025-01-28,2025-01-28,242.4,CHF,settled,1.0,242.4,CHF,
+"Quote ""test"" shop",expense,Account1,Privatkonto,QuoteShop,Quote Shop,2025-01-29,2025-01-29,10.0,CHF,pending,1.0,10.0,CHF,

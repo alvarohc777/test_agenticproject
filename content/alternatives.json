@@ -1,0 +1,6 @@
+{
+  "_note": "Cheaper options the savings engine may suggest. Owned by the domain expert; each entry needs a reason a reviewer can check.",
+  "alternatives": [
+    { "category": "groceries", "from": "Migros", "to": "Lidl", "note": "Example from the brief; replace with checked price comparisons." }
+  ]
+}
