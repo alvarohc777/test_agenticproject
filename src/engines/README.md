@@ -18,5 +18,6 @@ Pure functions that compute every number in the app. No UI, no storage, no netwo
 | `savings` | Savings rate; cuts and cheaper alternatives next | Stub |
 | `invest` | Match monthly surplus to products in `content/invest-products.json` | Stub |
 | `report` | Facts for the written monthly report | Basic |
+| `filter` | Narrow a transaction list by date, day, range, category, direction and amount; in/out totals | Done, tested |
 
 Rules: inputs and outputs are plain data (`Transaction[]`, numbers in Rappen); engines may call other engines, never adapters or features.
