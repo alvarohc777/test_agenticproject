@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import { HashRouter, Navigate, NavLink, Route, Routes } from "react-router-dom";
 import type { Services } from "../composition";
 import { I18nProvider, useI18n } from "../shared/i18n";
+import { CatIcon } from "../shared/icons";
 import { namespaced } from "./feature";
 import { features } from "./registry";
 import { ServicesProvider } from "./services";
@@ -34,7 +35,10 @@ function Shell() {
         >
           <span className="burger" />
         </button>
-        <span className="brand">{t("app.title")}</span>
+        <span className="brand">
+          <CatIcon size={28} />
+          {t("app.title")}
+        </span>
       </header>
 
       <nav className={`drawer ${open ? "open" : ""}`} aria-label={t("app.menu")}>
